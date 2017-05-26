@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MisContactos.iml" filepath="$PROJECT_DIR$/MisContactos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MisContactos-46f043b1f667558c4b82efa346af746bafdc688e.iml" filepath="$PROJECT_DIR$/MisContactos-46f043b1f667558c4b82efa346af746bafdc688e.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
